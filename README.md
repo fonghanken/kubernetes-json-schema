@@ -2,7 +2,8 @@
 
 ## Fork
 
-This is a fork from [instrumenta/kubernetes-json-schema](https://github.com/instrumenta/kubernetes-json-schema)
+This is a fork from [yannh/kubernetes-json-schema](https://github.com/yannh/kubernetes-json-schema)
+which is forked from [instrumenta/kubernetes-json-schema](https://github.com/instrumenta/kubernetes-json-schema)
 with updated scripts for easier maintenance, as well as schemas for all recent
 Kubernetes versions.
 
